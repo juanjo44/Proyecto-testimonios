@@ -7,7 +7,7 @@ export function Testimonio(props){
     <div className="contenedor-testimonio">
       <img
         className='imagen-testimonio'
-        src={require('../images/de-jong.jpg')} //require porque estamos seleccionando desde el javascript
+        src={require(`../images/testimonio-${props.imagen}.jpg`)} //require porque estamos seleccionando desde el javascript
         alt='Imagen de De Jong'/>
       <div className='contenedor-texto-testimonio'>
         <p className='nombre-testimonio'>{props.nombre} de {props.pais}</p>
