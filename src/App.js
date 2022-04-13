@@ -30,7 +30,7 @@ function App() {
           equipo='Real Madrid'
           testimonio='Es una pena que entre compañeros de profesión no tengamos conciencia. Aquí cada uno nos estamos jugando el pan, sí, pero hay que tener cabeza para no hacer algunas cosas. Se puede ir fuerte, pero nunca con mala intención' />
 
-<Testimonio
+        <Testimonio
           nombre="Lionel Messi"
           pais='Argentina'
           imagen='mess'
