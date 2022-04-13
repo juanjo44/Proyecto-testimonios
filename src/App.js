@@ -29,6 +29,14 @@ function App() {
           cargo='Futbolista'
           equipo='Real Madrid'
           testimonio='Es una pena que entre compañeros de profesión no tengamos conciencia. Aquí cada uno nos estamos jugando el pan, sí, pero hay que tener cabeza para no hacer algunas cosas. Se puede ir fuerte, pero nunca con mala intención' />
+
+<Testimonio
+          nombre="Lionel Messi"
+          pais='Argentina'
+          imagen='mess'
+          cargo='Futbolista'
+          equipo='PSG'
+          testimonio='La verdad tenía ganas, tuve pocos partidos, pude jugar uno solo acá (Parque de los Príncipes). De a poco me voy acostumbrando, adaptándome al equipo y a mis compañeros. Lo más importante es que hoy se ganó, hay que seguir y mirar lo que viene ahora' />
       </div>
     </div>
   );
